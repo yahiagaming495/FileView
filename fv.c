@@ -18,7 +18,9 @@ int print_file_contents(char *filename) {
 	while (fgets(buffer, sizeof(buffer), fileopen) != NULL) {
 	    printf("%s", buffer);
 	}
+	
 	fclose(fileopen);
+	return 0;
 }
 
 
