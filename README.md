@@ -1,5 +1,8 @@
 # FileView is a tool made to re-create the "cat" Linux command (but not replace it, Of course)
 
+> [!WARNING]
+> This application is deprecated and will not return back, The application contains many errors.
+
 > [!CAUTION]
 > Prediction for what the user wants here needs to be improved, This program may include bugs that 
 can corrupt the user's data, Use with caution. Do not write important files with this program unless you verified
